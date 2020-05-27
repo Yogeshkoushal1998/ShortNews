@@ -1,0 +1,2 @@
+# ShortNews
+News Mobile Application
